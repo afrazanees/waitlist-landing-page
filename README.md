@@ -1,2 +1,3 @@
-# waitlist-landing-page
-A simple Next.js landing page for collecting waitlist signups, with Supabase used for storing user emails.
+# Waitlist Landing Page
+
+A simple landing page for collecting user emails through a waitlist signup form.
