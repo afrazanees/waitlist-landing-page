@@ -1,3 +1,7 @@
 # Waitlist Landing Page
 
 A simple landing page for collecting user emails through a waitlist signup form.
+
+## Overview
+
+This project provides a landing page with an integrated waitlist form. Users can sign up to join a waitlist, with their information stored in a Supabase database.
