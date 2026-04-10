@@ -13,3 +13,5 @@ This project provides a landing page with an integrated waitlist form. Users can
 - Tailwind CSS - Utility-first CSS framework
 - Supabase - Backend database and authentication
 - pnpm - Package manager
+
+## Getting Started
