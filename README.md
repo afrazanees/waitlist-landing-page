@@ -9,3 +9,5 @@ This project provides a landing page with an integrated waitlist form. Users can
 ## Technology Stack
 
 - Next.js - React framework for server-side rendering and API routes
+- TypeScript - Type-safe JavaScript
+- Tailwind CSS - Utility-first CSS framework
