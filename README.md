@@ -15,3 +15,8 @@ This project provides a landing page with an integrated waitlist form. Users can
 - pnpm - Package manager
 
 ## Getting Started
+
+1. Install dependencies:
+   ```
+   pnpm install
+   ```
