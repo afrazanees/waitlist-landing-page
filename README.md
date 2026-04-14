@@ -20,3 +20,7 @@ This project provides a landing page with an integrated waitlist form. Users can
    ```
    pnpm install
    ```
+
+2. Set up environment variables:
+   - Create a `.env.local` file with your Supabase credentials
+
