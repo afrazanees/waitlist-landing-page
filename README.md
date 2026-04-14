@@ -24,3 +24,7 @@ This project provides a landing page with an integrated waitlist form. Users can
 2. Set up environment variables:
    - Create a `.env.local` file with your Supabase credentials
 
+3. Run the development server:
+   ```
+   pnpm dev
+   ```
