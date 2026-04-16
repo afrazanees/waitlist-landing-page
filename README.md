@@ -31,3 +31,6 @@ This project provides a landing page with an integrated waitlist form. Users can
    
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Project Structure
+
+- `app/` - Next.js app directory with layout, pages, and API routes
