@@ -36,3 +36,4 @@ This project provides a landing page with an integrated waitlist form. Users can
 - `app/` - Next.js app directory with layout, pages, and API routes
 - `components/` - Reusable React components
 - `lib/` - Utility functions and Supabase configuration
+- `scripts/` - Database migration scripts
